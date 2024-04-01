@@ -1,6 +1,6 @@
-# Indeed Salary Scraper
+# Indeed Job Scraper
 
-Welcome to Indeed Salary Scraper, a Python web scraper designed to help you find job listings on Indeed where the salary information is not mentioned.
+Welcome to Indeed Job Scraper, a Python web scraper designed to help you find job listings on Indeed where the salary information is not mentioned.
 
 ## Installation
 
